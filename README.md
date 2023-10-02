@@ -1,2 +1,9 @@
 # ListPlayers
-Show you the count of players and their names in Discord
+show count players and name players
+
+# DiscordCommands
+- !list
+
+# YouTube
+- @AEDXDEV
+- https://youtube.com/@AEDXDEV?si=lITBT0FxtITxfXQW
