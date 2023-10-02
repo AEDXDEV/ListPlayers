@@ -1,5 +1,5 @@
 # ListPlayers
-show count players and name players
+show count players and name players in Discord
 
 # DiscordCommands
 - !list
